@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @noirada
+- 👀 I’m interested in cybersecurity, specifically ethical haxking. 
+- 🌱 I’m currently learning python and visual basic (due to school)
+- 😄 Pronouns: He/Him
